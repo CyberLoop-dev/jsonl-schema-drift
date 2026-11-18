@@ -48,7 +48,12 @@ Run `python main.py --help` to see all supported options.
 ## :file_folder: Folder Structure
 
 ```text
-jsonl-schema-drift/\n├── main.py\n├── requirements.txt\n├── tests/test_core.py\n├── examples/events.jsonl\n└── assets/illustration.svg
+jsonl-schema-drift/
+├── main.py
+├── requirements.txt
+├── tests/test_core.py
+├── examples/events.jsonl
+└── assets/illustration.svg
 ```
 
 ## :world_map: Roadmap
